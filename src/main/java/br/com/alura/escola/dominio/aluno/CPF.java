@@ -1,4 +1,4 @@
-package com.example.cleanarchitecture;
+package br.com.alura.escola.dominio.aluno;
 
 public class CPF { // Value Object
     private String numero;

@@ -1,7 +1,8 @@
-package com.example.cleanarchitecture;
+package br.com.alura.escola.dominio.indicacao;
+
+import br.com.alura.escola.dominio.aluno.Aluno;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 
 public class Indicacao {
     private Aluno indicado;

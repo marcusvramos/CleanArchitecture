@@ -1,4 +1,4 @@
-package com.example.cleanarchitecture;
+package br.com.alura.escola.dominio.aluno;
 
 public class Email { // Class Value Object
     private String endereco;

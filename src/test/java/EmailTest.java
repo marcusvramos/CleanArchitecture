@@ -1,4 +1,4 @@
-import com.example.cleanarchitecture.Email;
+import br.com.alura.escola.dominio.aluno.Email;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
